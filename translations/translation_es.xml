@@ -84,13 +84,12 @@
 		<text name="rw_settings_moistureFrameBehaviour_texts_1" text="Detallado"/>
 		<text name="rw_settings_moistureFrameBehaviour_texts_2" text="Limitado"/>
 
-		<text name="rw_settings_blizzardsEnabled_label" text="Blizzards"/>
-		<text name="rw_settings_blizzardsEnabled_tooltip_1" text="Blizzards are disabled"/>
-		<text name="rw_settings_blizzardsEnabled_tooltip_2" text="Blizzards are enabled"/>
+		<text name="rw_settings_blizzardsEnabled_label" text="Tormentas de nieve"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_1" text="Las tormentas de nieve están desactivadas"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_2" text="Las tormentas de nieve están activadas"/>
 
-		<text name="rw_settings_droughtsEnabled_label" text="Droughts"/>
-		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Droughts are disabled"/>
-		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Droughts are enabled"/>
-
+		<text name="rw_settings_droughtsEnabled_label" text="Sequías"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Las sequías están desactivadas"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Las sequías están activadas"/>
 	</texts>
 </l10n>
